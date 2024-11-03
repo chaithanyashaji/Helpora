@@ -1,16 +1,5 @@
 # helpora_v1
 
-A new Flutter project.
+(https://devpost.com/software/helpora)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The idea for Helpora was born out of the urgent need for a platform where people seeking part-time work, especially those in need of extra income like students, the elderly, or individuals with health challenges, could easily find opportunities. We were inspired by the struggle many face in searching for trustworthy, local, and short-term jobs, combined with the desire to offer a solution for individuals who want help with everyday tasks but lack an easy way to connect with reliable workers.
