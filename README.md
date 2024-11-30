@@ -4,126 +4,69 @@
 
 ---
 
-<p align="center">
-  <h2>1. General Section</h2>
-</p>
+## 1. General Section
 
 ### Login
-- **Purpose:** This section allows users to log in, sign up, or reset their password based on their role (Job Seeker, Job Poster).
-- **Features:**
-  - **Login:** Users can log in to access the platform.
-  - **Register:** For registration
-  - **Forgot Password:** Option to reset the password if a user forgets their credentials.
+
+**Functions:**
+- **Login Function:** Authenticates the user and grants access to the app based on credentials.
+- **Register Function:** Registers a new user based on the provided details.
+- **Forgot Password Function:** Sends a password reset link to the user’s registered email.
 
 **Screenshots:**
 
-### Splash Screen | Login | Choose User
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/splash-screen.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/login-screen.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/choose-user-screen.jpg" width="28%" />
-</p>
-
-### Job Seeker Sign Up | Job Poster Sign Up | Forgot Password
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/job-seeker-signup.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/job-poster-signup.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/forgot-password.jpg" width="28%" />
+  <img src="https://github.com/user-attachments/assets/6f7c7b85-1e57-49cd-9091-8c2fb41f4988" width="28%" style="margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/dff50289-95bd-492e-a9a7-c23b9d2fc58f" width="28%" style="margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/009ac3d6-8df2-4fe5-b440-86dc94a9191b" width="28%" />
 </p>
 
 ---
 
-<p align="center">
-  <h2>2. Job Seeker Section</h2>
-</p>
+## 2. Job Seeker Section
 
-- **Purpose:** This section allows job seekers to register, view job posts, and track their completed tasks.
-- **Features:**
-  - View available jobs and their details.
-  - Apply for jobs and submit ID proofs for verification.
-  - Track job applications and completed tasks.
-  - View past tasks and receive humanity points from job posters.
-  - Edit profile and view accumulated humanity points.
-
-**Screenshots:**
-
-### Job Seeker Homepage | Job Details | Apply for Job
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/job-seeker-homepage.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/job-details.jpg" width="28%" />
-  <img src="https://github.com/user-attachments/assets/apply-for-job.jpg" width="28%" style="margin-right: 1%;" />
-</p>
-
-### Profile | Completed Tasks | Humanity Points
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/job-seeker-profile.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/completed-tasks.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/humanity-points.jpg" width="28%" />
-</p>
-
-### Search Jobs | View Job Poster Profile
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/search-jobs.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/job-poster-profile.jpg" width="28%" />
-</p>
-
----
-
-<p align="center">
-  <h2>3. Job Poster Section</h2>
-</p>
-
-- **Purpose:** This section allows job posters to manage their tasks, verify applicants, and assign humanity points.
-- **Features:**
-  - Create and manage job postings.
-  - View applicants and verify their ID proofs.
-  - Assign humanity points to job seekers based on performance.
-  - Edit or delete job postings.
+**Functions:**
+- **View Jobs:** Displays available job postings along with their details.
+- **Apply for Jobs:** Allows job seekers to apply for chores and submit necessary ID proofs.
+- **Track Applications:** Job seekers can track their ongoing and completed applications.
+- **Earn Humanity Points:** Job seekers can receive humanity points based on task completion.
+- **Edit Profile:** Job seekers can update their profile details.
+- **Create Job Post:** Allows job posters to create new job postings.
+- **View Applicants:** Displays job seekers who have applied for the posted chores.
+- **Verify ID Proofs:** Verifies the identity of applicants by checking their submitted ID proofs.
+- **Assign Humanity Points:** Job posters can assign humanity points to job seekers based on their performance.
+- **Edit or Delete Job Postings:** Enables the job poster to edit or remove the posted chores.
 
 **Screenshots:**
 
-### Job Poster Homepage | Create Job | Manage Job Postings
+### HomePage | Chore Details | Post Chore
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/job-poster-homepage.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/create-job.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/manage-job-postings.jpg" width="28%" />
+  <img src="https://github.com/user-attachments/assets/fd440737-a931-4cfa-836f-085968a7e255" width="28%" style="margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/d23e0192-16fe-4062-9459-1da3a707cb2a" width="28%" style="margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/b565d5ed-404d-4cd8-ba41-c7462f9b9603" width="28%" />
 </p>
 
-### View Applicants | Assign Humanity Points
+### Posted Chores | Interested People List | Check Chore Seekers' ID
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/view-applicants.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/assign-humanity-points.jpg" width="28%" />
+  <img src="https://github.com/user-attachments/assets/1311ccd9-12cc-4308-88bb-44f34a6c26a6" width="28%" style="margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/d23e0192-16fe-4062-9459-1da3a707cb2a" width="28%" style="margin-right: 1%;" />
+  <img src="https://github.com/user-attachments/assets/156c8c8d-08bf-4ca7-8d0d-98dc882b8696" width="28%" />
 </p>
 
----
+### Edit Chore | View Job Poster Profile
 
 <p align="center">
-  <h2>4. Admin Section</h2>
+  <img src="https://github.com/user-attachments/assets/e2f7dbf1-fab7-4fe6-89b6-a0b8f99b33d2" width="28%" style="margin-right: 1%;" />
 </p>
 
-- **Purpose:** Admins oversee user verifications, job posts, and manage platform features.
-- **Features:**
-  - Approve new users (job seekers and posters).
-  - Manage job postings and verify job seeker profiles.
-  - Monitor humanity points distribution.
-  - Manage platform-wide settings and features.
 
-**Screenshots:**
 
-### Admin Dashboard | User Management | Approve Job Postings
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/admin-dashboard.jpg" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/user-management.jpg" width="28%" />
-  <img src="https://github.com/user-attachments/assets/approve-job-postings.jpg" width="28%" />
-</p>
+
+
+
 
 ---
 
@@ -134,6 +77,3 @@
 **Backend:** Firebase (Firestore, Firebase Authentication, Firebase Functions, Firebase Storage)
 
 ---
-
-
-
