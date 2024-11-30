@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1311ccd9-12cc-4308-88bb-44f34a6c26a6" width="28%" style="margin-right: 1%;" />
   <img src="https://github.com/user-attachments/assets/d23e0192-16fe-4062-9459-1da3a707cb2a" width="28%" style="margin-right: 1%;" />
-  <img src="https://github.com/user-attachments/assets/156c8c8d-08bf-4ca7-8d0d-98dc882b8696" width="28%" />
+  <img src="https://github.com/user-attachments/assets/1ef1cc33-cea9-4531-9690-b6065cd0dd6d" width="28%" />
 </p>
 
 ### Edit Chore 
