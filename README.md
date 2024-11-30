@@ -1,4 +1,4 @@
-# Helpora App
+# Helpora App (https://devpost.com/software/helpora)
 
 **Helpora** is a platform designed to connect individuals who need help with domestic chores to part-time workers, especially targeting students, the elderly, and individuals with health challenges. The app enables users to post job opportunities and allows job seekers to apply for tasks, creating a trusted environment for local, short-term jobs. Helpora empowers users to earn pocket money while ensuring transparency, reliability, and safety.
 
