@@ -6,7 +6,7 @@
 
 ## 1. General Section
 
-### Login
+### Welcome Page | Login | Register
 
 **Functions:**
 - **Login Function:** Authenticates the user and grants access to the app based on credentials.
@@ -23,7 +23,7 @@
 
 ---
 
-## 2. Job Seeker Section
+## 2. Homepage
 
 **Functions:**
 - **View Jobs:** Displays available job postings along with their details.
@@ -55,7 +55,7 @@
   <img src="https://github.com/user-attachments/assets/156c8c8d-08bf-4ca7-8d0d-98dc882b8696" width="28%" />
 </p>
 
-### Edit Chore | View Job Poster Profile
+### Edit Chore 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e2f7dbf1-fab7-4fe6-89b6-a0b8f99b33d2" width="28%" style="margin-right: 1%;" />
